@@ -137,7 +137,7 @@ Le istruzioni complete utilizzate dal **Conditional Access Policy Agent** sono d
 
 ### 📋 Copy & Paste per Agent Builder
 
-➡️ [Apri Agent Instructions in formato Raw]([https://raw.githubusercontent.com/OltreSoftware/prompt-ai/refs/heads/main/prompts/agents/conditional-access.policy/agent-instructions.md])
+➡️ [Apri Agent Instructions in formato Raw](https://raw.githubusercontent.com/OltreSoftware/prompt-ai/refs/heads/main/prompts/agents/conditional-access.policy/agent-instructions.md)
 
 La versione **Raw** può essere copiata direttamente nel campo **Instructions** di Microsoft 365 Copilot Agent Builder.
 
