@@ -34,7 +34,7 @@ Attualmente sono disponibili prompt per:
 - [📊 Analyst](prompts/agents/analyst/README.md)
 
 ### 🛠️ Custom Declarative Agents
- 
+
 - [🔐 Conditional Access Policy Agent](prompts/agents/conditional-access-policy/README.md)
 
 ### 🎓 Percorsi per corso
