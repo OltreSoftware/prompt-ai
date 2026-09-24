@@ -33,6 +33,10 @@ Attualmente sono disponibili prompt per:
 - [🔎 Researcher](prompts/agents/researcher/README.md)
 - [📊 Analyst](prompts/agents/analyst/README.md)
 
+### 🛠️ Custom Declarative Agents
+ 
+- [🔐 Conditional Access Policy Agent](prompts/agents/conditional-access-policy/README.md)
+
 ### 🎓 Percorsi per corso
 
 La cartella [`courses`](courses/README.md) contiene i percorsi didattici.
