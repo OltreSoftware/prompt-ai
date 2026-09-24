@@ -127,13 +127,21 @@ Può controllare **quali sessioni possono accedere alle applicazioni**.
 Controlla **cosa può fare l'utente durante una sessione browser proxy tramite Conditional Access App Control**.
 
 ---
+## 🧠 Agent Instructions
 
-## 📚 Agent Instructions
+Le istruzioni complete utilizzate dal **Conditional Access Policy Agent** sono disponibili nel repository.
 
-Le istruzioni complete dell'agente sono disponibili qui:
+### 📖 Documentazione
 
-➡️ [Agent Instructions](agent-instructions.md)
+➡️ [Visualizza Agent Instructions](agent-instructions.md)
 
+### 📋 Copy & Paste per Agent Builder
+
+➡️ [Apri Agent Instructions in formato Raw](https://raw.githubusercontent.com/OltreSoftware/prompt-ai/main/prompts/agents/conditional-access-policy/agent-instructions.md)
+
+La versione **Raw** può essere copiata direttamente nel campo **Instructions** di Microsoft 365 Copilot Agent Builder.
+
+> **Nota:** le istruzioni sono ottimizzate per rispettare il limite massimo di 8.000 caratteri previsto da Agent Builder.
 ---
 
 ## 🧪 Usage Examples
