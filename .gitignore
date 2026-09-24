@@ -1,0 +1,17 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+# Windows
+Thumbs.db
+Desktop.ini
+ 
+# Temporary files
+*.tmp
+*.bak
+*.swp
