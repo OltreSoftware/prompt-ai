@@ -37,6 +37,17 @@ Prompt dedicati alla:
 ➡️ [Analyst Prompt Library](agents/analyst/README.md)
 
 ---
+ 
+## 🛠️ Custom Declarative Agents
+ 
+### 🔐 Conditional Access Policy Agent
+ 
+Agente dichiarativo personalizzato progettato per supportare la definizione
+e la progettazione di Microsoft Entra Conditional Access Policy.
+ 
+➡️ [Conditional Access Policy Agent](agents/conditional-access-policy/README.md)
+
+---
 
 ## 🧭 Principio di organizzazione
 
