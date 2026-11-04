@@ -41,3 +41,14 @@ l'esercitazione.
 
 I prompt non esplicitamente modificati devono essere eseguiti come
 previsto dal laboratorio ufficiale.
+
+## Disclaimer
+
+Microsoft, Microsoft 365 Copilot e i relativi nomi di prodotto
+sono marchi di Microsoft Corporation.
+
+Questo materiale è indipendente, non ufficiale e non è approvato
+o sponsorizzato da Microsoft.
+
+I laboratori originali e le relative istruzioni rimangono
+disponibili nel repository MicrosoftLearning ufficiale.
