@@ -30,6 +30,8 @@ invariati:
 ### Scenari disponibili
 
 - [Mobility](./scenarios/mobility/README.md)
+- [HealthCare](./scenarios/healthcare/README.md)
+- [Public Sector](./scenarios/public-sector/README.md)
 
 ## Come utilizzare gli scenari
 
